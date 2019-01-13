@@ -1,0 +1,27 @@
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.deps.json
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.dll
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csprojResolveAssemblyReference.cache
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfoInputs.cache
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfo.cs
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.pdb
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.dll
+D:\Projects\VS_Projects\Final Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.pdb
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.deps.json
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.pdb
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfo.cs
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.deps.json
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\bin\Debug\netstandard2.0\BinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\Binarization\obj\Debug\netstandard2.0\BinarizationLibrary.pdb

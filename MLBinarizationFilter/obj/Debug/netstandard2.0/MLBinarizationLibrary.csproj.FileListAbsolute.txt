@@ -1,0 +1,27 @@
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.deps.json
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\My Project\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.deps.json
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\MyProject\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.deps.json
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\bin\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfoInputs.cache
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.AssemblyInfo.cs
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.dll
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.pdb
+C:\Users\Suraj\source\repos\SE-2017-2018\SE\Projects\Binarization Filter\MLBinarizationFilter\obj\Debug\netstandard2.0\MLBinarizationLibrary.csprojResolveAssemblyReference.cache
