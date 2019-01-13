@@ -1,0 +1,2 @@
+binarization library is done.
+test cases in done

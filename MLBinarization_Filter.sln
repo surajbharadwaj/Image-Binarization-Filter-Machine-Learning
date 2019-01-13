@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLBinarizationLibrary", "MLBinarizationFilter\MLBinarizationLibrary.csproj", "{042810D8-97AE-4418-A97C-9920ADD5CB9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLBinarizationUnitTest", "MLBinarizationTestCases\MLBinarizationUnitTest.csproj", "{8D104E7C-9F14-428A-916B-AC28C002D0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042810D8-97AE-4418-A97C-9920ADD5CB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042810D8-97AE-4418-A97C-9920ADD5CB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042810D8-97AE-4418-A97C-9920ADD5CB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042810D8-97AE-4418-A97C-9920ADD5CB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D104E7C-9F14-428A-916B-AC28C002D0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D104E7C-9F14-428A-916B-AC28C002D0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D104E7C-9F14-428A-916B-AC28C002D0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D104E7C-9F14-428A-916B-AC28C002D0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AC566A9-6DBB-4F84-9734-60E6060BC72B}
+	EndGlobalSection
+EndGlobal
