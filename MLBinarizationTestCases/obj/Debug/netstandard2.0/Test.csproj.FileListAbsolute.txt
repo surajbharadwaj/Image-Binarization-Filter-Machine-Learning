@@ -1,0 +1,13 @@
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\xunit.runner.utility.net35.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\xunit.abstractions.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\Test.deps.json
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\Test.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\Test.pdb
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\BinarizationLibrary.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\bin\Debug\netstandard2.0\BinarizationLibrary.pdb
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\obj\Debug\netstandard2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\obj\Debug\netstandard2.0\Test.AssemblyInfoInputs.cache
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\obj\Debug\netstandard2.0\Test.AssemblyInfo.cs
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\obj\Debug\netstandard2.0\Test.dll
+C:\Users\Suraj\Desktop\Final Project\Suraj working upgrading\Binarization Filter\Test\obj\Debug\netstandard2.0\Test.pdb
